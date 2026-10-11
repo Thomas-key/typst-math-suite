@@ -2,7 +2,7 @@
   "name": "typst-math-suite",
   "displayName": "Typst Math Suite",
   "description": "在 Typst 数学环境（$ … $）里输入触发词即时展开；内置希腊字母、导数积分、极限求和等规则，规则表可自由增删改。",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "illusion",
   "license": "MIT",
   "engines": {
